@@ -1,5 +1,5 @@
 # Guessing_game
-Guess the secret number game build while learning rust's tutorial
+Guess the secret number is a game built while learning rust's tutorial.
 
 ## Installation
 
